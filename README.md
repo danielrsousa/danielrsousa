@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielrochadesousa@gmail.com)](mailto:danielrochadesousa@gmail.com)
 
 More about me:
--  I’m currently working on [@pagbank](https://github.com/pagbank)
 -  I have a degree in Systems Analysis and Development from FIAP (Faculdade de Informática e Adiministração Paulista)
 -  Ask me about anything [here](https://github.com/danielrsousa/danielrsousa/issues)
 <br/>
